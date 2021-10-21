@@ -1,0 +1,8 @@
+.card{
+    animation-name: CardsMove;
+    animation-duration: 2s;
+  }
+  @keyframes CardsMove {
+    from {height: 0%;}
+    to {height: 100%;}
+  }
